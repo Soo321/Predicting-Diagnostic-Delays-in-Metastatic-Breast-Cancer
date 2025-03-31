@@ -20,7 +20,7 @@
   - Ensemble Model: **Stacking Regressor** (Meta-model: Linear Regression)
 
 
-## ⚙Performance Optimization Techniques
+## Performance Optimization Techniques
 
 | Strategy | Description |
 |----------|-------------|
@@ -55,8 +55,6 @@
 - CatBoost / XGBoost / LightGBM
 - SHAP (optional for future explainability)
 - PCA & Mutual Info for feature selection
-
----
 
 ## Key Takeaways
 - Tree-based models generally performed well, but stacking them further boosted accuracy.
